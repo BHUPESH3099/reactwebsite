@@ -7,7 +7,7 @@ const navbar = () => {
     <div className="n-wrapper" id="Navbar">
       {/* left */}
       <div className="n-left">
-        <div className="n-name">Bhupesh</div>
+        <div className="n-name">Home Tutor</div>
         <Toggle />
       </div>
       {/* right */}
